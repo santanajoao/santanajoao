@@ -1,9 +1,6 @@
-### Olá, ~~mundo!~~ visitante 👋
+# 🚧: README em desenvolvimento
 
-<!--
-**santanajoao/santanajoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## <img height="25px" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt="GIF de uma mão acenando" /> Olá, ~~mundo~~ visitante!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
