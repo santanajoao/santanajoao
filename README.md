@@ -1,4 +1,4 @@
-# 🚧: README em desenvolvimento
+# 🚧 README em desenvolvimento
 
 ## <img height="25px" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt="GIF de uma mão acenando" /> Olá, ~~mundo~~ visitante!
 
