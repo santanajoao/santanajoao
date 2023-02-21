@@ -1,8 +1,4 @@
-<div style="display: flex; justify-content">
-  <h1 style="width: 100%">Olá, <span style="text-decoration: line-through; font-weight: 200;">mundo</span> visitante!
-  <img height="30px" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt="GIF de um emoji de mão acenando" />
-  </h1>
-</div>
+# Olá, ~~mundo~~ visitante! <img height="30px" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt="GIF de um emoji de mão acenando" />
 
 <img src="./assets/banner.jpeg" width="100%">
 
