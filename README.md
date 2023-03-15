@@ -12,7 +12,7 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 - 🔭 Estou sempre trabalhando em projetos pessoais que me interessam ou me desafiam
 - 📫 Fale comigo pelo [Linkedin](https://www.linkedin.com/in/joaopedrosantanac/) ou se você for um colega de curso me chame no slack!
 - ⚡ Meu estilo de música favorito é rock, mas ouço de tudo
-- 🌱 Estudo Desenvolvimento Web na Trybe e, atualmente, React Hooks
+- 🌱 Estudo Desenvolvimento Web na Trybe e, atualmente estou iniciando os estudos de backend
 
 ## Tecnologias
 
