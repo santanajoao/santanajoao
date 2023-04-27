@@ -14,6 +14,10 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 - ⚡ Amo música, ouvir, conhecer novas, arriscar cantar e tocar.
 - 🌱 Estudo Desenvolvimento Web na Trybe e, atualmente estou estudando Node.js e Express.js
 
+## Contato
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrosantanac/)
+
 ## Tecnologias
 
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +43,6 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=santanajoao&theme=dark)
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santanajoao&theme=dark)
-
-## Contato
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrosantanac/)
+<a href="https://wakatime.com">
+  <img src="https://wakatime.com/share/@2861cd42-c9a6-4015-bda1-17d1828fa94f/ad0f0e43-7ee4-498f-825a-c60587f6fb28.png" width="63%" />
+</a>
