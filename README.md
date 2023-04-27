@@ -11,8 +11,8 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 - 🤯 Amo me desafiar e estou sempre vagando pelo leetcode, beecrowd e hackerhank
 - 🔭 Estou sempre trabalhando em projetos pessoais que me interessam ou me desafiam
 - 📫 Fale comigo pelo [Linkedin](https://www.linkedin.com/in/joaopedrosantanac/) ou se você for um colega de curso me chame no slack!
-- ⚡ Meu estilo de música favorito é rock, mas ouço de tudo
-- 🌱 Estudo Desenvolvimento Web na Trybe e, atualmente estou iniciando os estudos de backend
+- ⚡ Amo música, ouvir, conhecer novas, arriscar cantar e tocar.
+- 🌱 Estudo Desenvolvimento Web na Trybe e, atualmente estou estudando Node.js e Express.js
 
 ## Tecnologias
 
@@ -30,6 +30,11 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Chai Badge](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Mocha Badge](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Github Stats
 
