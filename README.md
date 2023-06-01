@@ -9,9 +9,9 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 ## Sobre mim
 
 - 🤯 Amo me desafiar e estou sempre vagando pelo leetcode, beecrowd e hackerhank
-- 🔭 Estou sempre trabalhando em projetos pessoais que me interessam ou me desafiam
-- 📫 Fale comigo pelo [Linkedin](https://www.linkedin.com/in/joaopedrosantanac/) ou se você for um colega de curso me chame no slack!
-- ⚡ Amo música, ouvir, conhecer novas, arriscar cantar e tocar.
+- 🔭 Estou sempre trabalhando em projetos pessoais que me desafiam ou em que eu penso: "Que legal! Quero tentar fazer"
+- 📫 Fale comigo pelo [Linkedin](https://www.linkedin.com/in/joaopedrosantanac/) ou se você for um colega da Trybe me chame no slack!
+- ⚡ Amo música, ouvir, conhecer novas, arriscar cantar e tocar violão.
 - 🌱 Estudo Desenvolvimento Web na Trybe e, atualmente estou estudando Orientação a Objetos e SOLID.
 
 ## Contato
