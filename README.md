@@ -10,11 +10,11 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 
 - 🤯 Amo me desafiar e estou sempre vagando pelo leetcode, beecrowd e hackerrank.
 - 🔭 Estou sempre trabalhando em projetos pessoais que me desafiam ou em que eu penso: "Que legal! Quero tentar fazer".
+- 📚 Estudo Desenvolvimento Web Fullstack na Trybe e, atualmente estou estudando Orientação a Objetos e SOLID.
 - 📫 Fale comigo pelo [Linkedin](https://www.linkedin.com/in/joaopedrosantanac/) ou por email: joaopedrosantanacostadev@gmail.com.
 - 📫 Se você for um colega da Trybe me chame no slack!
 - 🎵 Amo música: ouvir, conhecer novas, arriscar cantar e tocar violão.
 - 🥊 Gosto muito de praticar esportes, principalmente luta.
-- 📚 Estudo Desenvolvimento Web na Trybe e, atualmente estou estudando Orientação a Objetos e SOLID.
 
 ## Contato
 
@@ -26,6 +26,7 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaSript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![ReactRouter Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -39,12 +40,14 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 ![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-### Geral
+### Testes
 
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library Badge](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Chai Badge](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Mocha Badge](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+
+### Outras ferramentas
 
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
