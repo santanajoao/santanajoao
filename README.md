@@ -4,7 +4,7 @@
 
 ---
 
-Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov.br/texto/a_cidade), no interior da Bahia e sou apaixonado por tecnologia, principalmente, desenvolvimento de software e seus desafios. Estudo desenvolvimento web na Trybe e gosto muito de tentar ajudar e ensinar.
+Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov.br/texto/a_cidade), no interior da Bahia e sou apaixonado por tecnologia, principalmente, desenvolvimento de software e seus desafios. Sou Desenvolvedor Web Fullstack e tenho experiência com React.js, Next.js, CSS e fameworks como Tailwind, Node.js, Express.js e MySQL. Estudo desenvolvimento web na Trybe e gosto muito de tentar ajudar e compartilhar o que sei.
 
 ## Sobre mim
 
