@@ -68,7 +68,3 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanajoao&theme=dark" />
 </a>
-<a href="https://wakatime.com/@joaopsantana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaopsantana" />
-</a>
-
