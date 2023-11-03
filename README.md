@@ -4,16 +4,15 @@
 
 ---
 
-Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov.br/texto/a_cidade), no interior da Bahia e sou apaixonado por tecnologia, principalmente, desenvolvimento de software e seus desafios. Sou Desenvolvedor Web Fullstack e tenho experiência com React.js, Next.js, CSS e fameworks como Tailwind, Node.js, Express.js e MySQL. Estudo desenvolvimento web na Trybe e gosto muito de tentar ajudar e compartilhar o que sei.
+Meu nome é João Pedro Santana, moro em [Macaúbas](https://www.macaubas.ba.gov.br/texto/a_cidade), no interior da Bahia e sou apaixonado por tecnologia, principalmente, desenvolvimento de software e seus desafios. Sou Desenvolvedor Web Fullstack e tenho experiência com React.js, Next.js, CSS, Tailwind, Node.js, Express.js, MySQL e Docker. Gosto muito de tentar ajudar e compartilhar o conhecimento que tenho.
 
 ## Sobre mim
 
-- 🤯 Amo me desafiar e as vezes vago pelo leetcode, beecrowd e hackerrank.
 - 🔭 Estou sempre trabalhando em projetos pessoais que me desafiam ou em que eu penso: "Que legal! Quero tentar fazer".
-- 📚 Estudo Desenvolvimento Web Fullstack na Trybe e, atualmente estou estudando Angular, Java e Spring.
-- 📚 Também estou fazendo o Bootcamp de Angular e Java.
+- 🤯 Amo me desafiar e as vezes vago pelo leetcode, beecrowd e hackerrank.
+- 📚 Formado em Desenvolvimento Web Fullstack na Trybe.
+- 📚 Atualmente estou estudando Inglês, me aprofundando nas tecnologias que sei e tentando entender Design Patterns e Arquitetura de Software.
 - 📫 Fale comigo pelo [Linkedin](https://www.linkedin.com/in/joaopedrosantanac/) ou por email: joaopedrosantanacostadev@gmail.com.
-- 📫 Se você for um colega da Trybe me chame no slack!
 - 🎵 Amo música: ouvir, conhecer novas, arriscar cantar e tocar violão.
 - 🥊 Gosto muito de praticar esportes, principalmente luta.
 
