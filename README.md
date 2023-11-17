@@ -4,7 +4,7 @@
 
 ---
 
-Meu nome é João Pedro Santana, moro em [Macaúbas](https://macaubas.ba.gov.br/texto/a_cidade), no interior da Bahia e sou apaixonado por tecnologia, principalmente, desenvolvimento de software e seus desafios. Sou Desenvolvedor Web Fullstack e tenho experiência com React.js, Next.js, CSS, Tailwind, Node.js, Express.js, MySQL e Docker. Gosto muito de tentar ajudar e compartilhar o conhecimento que tenho.
+Meu nome é João Pedro Santana, moro em [Macaúbas](https://macaubas.ba.gov.br/texto/a_cidade), no interior da Bahia e sou apaixonado por tecnologia, principalmente, desenvolvimento de software e seus desafios. Sou Desenvolvedor Web Fullstack e minha stack principal é React.js, Next.js, CSS, Tailwind, Node.js, Express.js, MySQL e Docker. Gosto muito de tentar ajudar e compartilhar o conhecimento que tenho.
 
 ## Sobre mim
 
