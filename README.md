@@ -9,11 +9,9 @@ Meu nome é João Pedro Santana, moro em [Macaúbas](https://macaubas.ba.gov.br/
 ## Sobre mim
 
 - 🔭 Estou sempre trabalhando em projetos pessoais que me desafiam ou em que eu penso: "Que legal! Quero tentar fazer".
-- 🤯 Amo me desafiar e as vezes vago pelo leetcode, beecrowd e hackerrank.
+- 🤯 Gosto muito de me desafiar e as vezes vago pelo leetcode, beecrowd e hackerrank.
 - 📚 Formado em Desenvolvimento Web Fullstack na Trybe.
-- ⚙️ Estou desenvolvendo um projeto com Angular e Java para estudos
-- ⚙️ Também estou planejando um projeto integrado com uma API de IA
-- 📚 Atualmente estou estudando Inglês, me aprofundando nas tecnologias que sei e tentando entender Design Patterns e Arquitetura de Software.
+- 📚 Atualmente estou estudando Inglês, me aprofundando nas tecnologias que sei e tentando entender Design Patterns.
 - 📫 Fale comigo pelo [Linkedin](https://www.linkedin.com/in/joaopedrosantanac/) ou por email: joaopedrosantanacostadev@gmail.com.
 - 🎵 Amo música: ouvir, conhecer novas, arriscar cantar e tocar violão.
 - 🥊 Gosto muito de praticar esportes, principalmente luta.
